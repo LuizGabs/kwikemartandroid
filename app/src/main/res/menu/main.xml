@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/configs"
+        android:title="Controle de Usuários" />
+    <item
+        android:id="@+id/relatorio"
+        android:title="Relatório de Compras e Vendas" />
+    <item
+        android:id="@+id/gains"
+        android:title="Lucros do Kwik-E-Mart" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+</menu>
